@@ -1,0 +1,15 @@
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\bin\Debug\net6.0\ProjetoConsoleApp1.exe
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\bin\Debug\net6.0\ProjetoConsoleApp1.deps.json
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\bin\Debug\net6.0\ProjetoConsoleApp1.runtimeconfig.json
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\bin\Debug\net6.0\ProjetoConsoleApp1.dll
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\bin\Debug\net6.0\ProjetoConsoleApp1.pdb
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.AssemblyInfo.cs
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.dll
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\refint\ProjetoConsoleApp1.dll
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.pdb
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ProjetoConsoleApp1.genruntimeconfig.cache
+C:\Users\joao.gschaves\source\repos\SolucaoConsoleApp1\ProjetoConsoleApp1\obj\Debug\net6.0\ref\ProjetoConsoleApp1.dll
