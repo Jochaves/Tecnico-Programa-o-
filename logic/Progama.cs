@@ -1,4 +1,7 @@
-﻿string sexo;
+﻿
+// --- Descubra o sexo ---
+
+string sexo;
 Console.WriteLine ("Digite 'h' para homem, 'm' para mulher ou qualquer tecla para sair: ");
 
 sexo = Console.ReadLine();
