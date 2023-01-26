@@ -1,0 +1,15 @@
+C:\Users\joao.gschaves\source\repos\logic\bin\Debug\net6.0\logic.exe
+C:\Users\joao.gschaves\source\repos\logic\bin\Debug\net6.0\logic.deps.json
+C:\Users\joao.gschaves\source\repos\logic\bin\Debug\net6.0\logic.runtimeconfig.json
+C:\Users\joao.gschaves\source\repos\logic\bin\Debug\net6.0\logic.dll
+C:\Users\joao.gschaves\source\repos\logic\bin\Debug\net6.0\logic.pdb
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.csproj.AssemblyReference.cache
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.AssemblyInfoInputs.cache
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.AssemblyInfo.cs
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.dll
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\refint\logic.dll
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.pdb
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\logic.genruntimeconfig.cache
+C:\Users\joao.gschaves\source\repos\logic\obj\Debug\net6.0\ref\logic.dll
