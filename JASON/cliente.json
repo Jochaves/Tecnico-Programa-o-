@@ -1,0 +1,30 @@
+
+/*json trabalha com base em direcionario 
+ chave : valor */
+
+{
+ "codigo": 10,
+ "nome": "Roni Costa",
+ "cpf": "111.222.333-10",
+ "endereço": "Rua Teste, 10",
+ "bairro": "São Miguel Paulista",
+ "cidade": "São Paulo",
+ "uf": "SP",
+ "idade": 18,
+ "telefones":[
+    {
+        "ddd": 11,
+        "nro": "123-4321",
+        "tipo": "fixo"
+    },
+    {
+        "ddd":21,
+        "nro":"95545-1122",
+        "tipo":"celular"
+    }
+ ],
+ "peso": 95,
+ "altura": 1.87
+}
+
+/* verifica se o JSON e válido https://jsonlint.com/ */
